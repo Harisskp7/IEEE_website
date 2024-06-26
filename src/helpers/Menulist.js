@@ -1,4 +1,4 @@
-import paper from "../assets/paperp.jpg";
+import vlog from "../assets/vlog.jpg";
 import project from "../assets/project-management.png";
 import circuit from "../assets/circuit.jpg";
 import coding from "../assets/coding.jpg";
@@ -7,30 +7,30 @@ import tressure from "../assets/treasurehunt.jpg";
 
 export const MenuList = [
   {
-    name: "Paper presentation",
-    image: paper,
+    name: "Vlogs",
+    image: vlog,
   },
   {
-    name: "Project presentation",
+    name: "Sports",
     image: project,
   },
   {
-    name: "Circuitez",
+    name: "Books",
     image: circuit,
     
   },
   {
-    name: "Coding-contest",
+    name: "Movies",
     image: coding,
    
   },
   {
-    name: "Connections",
+    name: "Travel",
     image: connections,
 
   },
   {
-    name: "Treasure-Hunt",
+    name: "Academics",
     image: tressure,
   },
 ];

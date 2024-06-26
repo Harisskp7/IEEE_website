@@ -9,13 +9,24 @@ function About() {
         style={{ backgroundImage: `url(${MultiplePizzas})` }}
       ></div>
       <div className="aboutBottom">
-        <h1> ABOUT CONFERENCE</h1>
+        <h1> ABOUT ME</h1>
         <p>
-        International Conference on Communication, Computing and for Industry 6.0 (C2I6) is an international conference that aims to bring together experts from different domains to engineer a connected ecosystem envisioned by the sixth industrial revolution. 
+        Welcome to my corner of the internet! Team Techusiastics, and I'm thrilled to have you here.
 
-The conference is a prominent convention that provides a platform for leading researchers in academia, industry and business leaders to share and exchange the cutting-edge research ideas under one roof, and discuss relevant future directions. 
+I'm a student based in KEC.
 
-C2I6 is committed to promote the industry-academic interaction and bridge the gap between the two by fostering peer-reviewed paper submissions, keynotes, invited talks, panel discussions, project exhibits and a pre-conference workshop. The conference also provides an excellent opportunity for students and researchers to develop their research skills. The conference will recognize one or more papers, demos, posters, and graduate student forum with selective awards.
+Ever since I was young, I've been fascinated by Blogs. Over the years, that curiosity has led me on a journey of exploration, learning, and growth.
+
+On this blog, I aim to Describe the purpose or theme of my blog. Whether it's sharing tips, insights, or personal anecdotes, my goal is to What you hope to achieve with my blog.
+
+When I'm not Your Occupation or Passion, you can find me What you enjoy doing outside of my main focus. I believe in Personal philosophy or belief, and I strive to How you live out your beliefs in your daily life.
+
+I'm excited to connect with you and share our experiences. Feel free to explore my blog, leave comments, or reach out to me directly. Let's embark on this journey together!
+
+Warm regards,
+Team Techusiastics
+
+Feel free to personalize it further to better reflect your personality and interests!
         </p>
       </div>
     </div>
